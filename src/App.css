@@ -1,0 +1,9 @@
+.card{
+  height:200px;
+  width:150px;
+  border: 5px solid black;
+  margin: 50px;
+}
+.cardDiv{
+  display: flex;
+}
